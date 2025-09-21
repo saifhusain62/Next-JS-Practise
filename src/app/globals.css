@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+
+.active{
+    color: brown;
+    text-decoration: none;
+}
